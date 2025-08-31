@@ -1,0 +1,8 @@
+[2025-08-31 22:02:26.260533 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : You E-mail was changed
+[2025-08-31 22:02:49.706953 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : Your Face Recognition was reset
+[2025-08-31 22:03:49.875758 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : Your Bluetooth device was changed
+[2025-08-31 22:03:52.933115 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : Your Setup was completed sucessfully
+[2025-08-31 22:04:00.456817 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : Main Menu was accessed
+[2025-08-31 22:04:05.139965 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : Main Menu closed
+[2025-08-31 22:04:58.815001 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : Main Menu was accessed
+[2025-08-31 22:05:05.618422 IP: 47.15.73.192 Loc: Jaipur [26.9196, 75.7878]] : Main Menu closed
